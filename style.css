@@ -3,5 +3,5 @@ html {
     height:100%;
 }
 button {
-    border: none;
+    transform:scale(0.1);
 }
