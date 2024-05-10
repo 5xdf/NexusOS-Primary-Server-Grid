@@ -8,4 +8,5 @@ p {
 }
 button {
     font-family: "Ubuntu";
+    border-radius: 10px;
 }
